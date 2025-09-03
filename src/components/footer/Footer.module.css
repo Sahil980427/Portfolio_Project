@@ -2,7 +2,7 @@
 
 .footer {
   color: #e5e7eb;
-  font-family: 'Fira Code', monospace;
+  font-family: "Fira Code", monospace;
   padding: 40px 20px;
   text-align: center;
 }
@@ -138,8 +138,8 @@
   }
 
   .socialLinks {
-    gap: 15px;
-    padding: 20px 0;
+    gap: 35px;
+    padding: 40px 0;
   }
 
   .logo {
